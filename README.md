@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/12888d9b-2c04-4e0a-bc52-6bc80672f3e9)
 
 
-### Overview
+### Overview 
 This project focuses on analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution using Power BI. 
 The interactive dashboard provides valuable insights into sales trends, outlet performance, and product category analysis to help businesses optimize decision-making.
 ### Objective:
